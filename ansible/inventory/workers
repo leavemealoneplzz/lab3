@@ -2,11 +2,11 @@
 lab2-ansible-1
 
 [database]
-ansible-app-3
+lab2-app-3
 
 [application]
-ansible-app-1
-ansible-app-2
+lab2-app-1
+lab2-app-2
 
 [webapp:children]
 database
